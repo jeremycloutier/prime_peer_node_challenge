@@ -1,6 +1,3 @@
-/**
- * Created by acoelho on 1/5/16.
- */
 var rand_numb = require('./rand_numb');
 var dollar = require('./dollar');
 
